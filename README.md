@@ -5,7 +5,9 @@ Welcome to the Minimalist Bank Website, a project that demonstrates mastery in D
 **Link to project:** https://finzyphinzy.github.io/Minimalist-Banking/
 **Link to repository:** https://github.com/FinzyPHINZY/Minimalist-Banking/
 
-![Main Page]("./img/bankist1.png")
+**Main Page**
+<img width="947" alt="bankist1" src="https://github.com/FinzyPHINZY/Minimalist-Banking/assets/102292855/be6367ea-801d-40d3-98c1-314c79218d54">
+
 
 ## How It's Made:
 
@@ -23,7 +25,8 @@ DOM Traversing: Navigate the Document Object Model with ease, leveraging advance
 Sticky Navigation: Implement a responsive and user-friendly sticky navigation bar that enhances accessibility and provides a smooth browsing experience during scrolling.
 
 Slider Document: Create a dynamic slider document with smooth transitions, enhancing visual appeal and user engagement.
-![Tabbed Menu]("./img/bankist4.png")
+![Tabbed Menu]<img width="960" alt="bankist4" src="https://github.com/FinzyPHINZY/Minimalist-Banking/assets/102292855/6c19277c-f8cf-4930-abf9-c130e2736529">
+
 
 Lifecycle DOM Events: Gain insights into the lifecycle of DOM events, ensuring effective event handling at various stages of page execution.
 
@@ -32,13 +35,14 @@ Lifecycle DOM Events: Gain insights into the lifecycle of DOM events, ensuring e
 Efficient Script Loading (Defer): Optimize script loading by utilizing the defer attribute, enhancing page load performance and ensuring scripts execute in the correct order.
 
 Lazy Loading Images: Improve page loading times and user experience by implementing lazy loading for images, ensuring resources are loaded only when needed.
-![Features Page]("./img/bankist2.png")
+![Features Page]<img width="947" alt="bankist2" src="https://github.com/FinzyPHINZY/Minimalist-Banking/assets/102292855/282f3b72-1f71-4e16-b3d6-c9e7fc31476b">
+
 
 Intersection Observer API: Leverage the power of the Intersection Observer API to efficiently handle element visibility, enhancing performance and reducing unnecessary computations.
 
 ## Lessons Learned:
 
-As an engineer, the pursuit of knowledge is a perpetual journey, irrespective of experience. Motivated by a curiosity to explore advanced DOM manipulations, I opted for a practical approach over prolonged theoretical study.
+As an engineer, the pursuit of knowledge is a perpetual journey, irrespective of experience. Motivated by a curiosity to explore advanced DOM manipulations, I opted for a practical approach over a prolonged theoretical study.
 
 Drawing insights from sources like MDN and YouTube, I transformed my learning into a tangible project. Challenges arose, but with dedicated research, I conquered them. This experience highlighted the importance of applying theoretical concepts in a real-world context, dispelling any illusions of superficial knowledge.
 
